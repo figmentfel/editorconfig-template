@@ -1,0 +1,2 @@
+# EditorConfig
+ Default .editorconfig file
