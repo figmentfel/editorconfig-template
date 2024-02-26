@@ -2,7 +2,7 @@
  Simple .editorconfig file for my personal projects.
 
 ```sh
-curl https://raw.githubusercontent.com/figmentfel/EditorConfig-Template/main/.editorconfig
+curl https://raw.githubusercontent.com/figmentfel/EditorConfig-Template/main/.editorconfig > .editorconfig
 ```
 
 ## License
